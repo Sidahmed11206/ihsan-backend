@@ -1,7 +1,7 @@
 // ===================================
 // IHSAN BACKEND — Serveur principal
 // ===================================
-require('dotenv').config();
+
 const express = require('express');
 const cors = require('cors');
 
